@@ -1,0 +1,283 @@
+0:00:00.240,0:00:04.560
+This is an introductory video to the soccer 
+heart rate dashboard. It is a dashboard which
+
+0:00:04.560,0:00:08.320
+is used for real-time monitoring of 
+soccer players during both match and
+
+0:00:08.320,0:00:15.680
+training scenarios. It focuses on leveraging 
+heart rate data combined with GPS-data.
+
+0:00:15.680,0:00:19.920
+Lets first take a look at the training mode. 
+The training mode has a header with all players
+
+0:00:19.920,0:00:24.880
+displayed that currently pursue an exercise. 
+Below the header is the player list, which
+
+0:00:24.880,0:00:30.960
+displays the actual metrics of each players.
+In the header, if a group holds too many players,
+
+0:00:30.960,0:00:35.600
+such that space becomes an issue, then the groups 
+will shrink in size to always be able to have an
+
+0:00:35.600,0:00:39.920
+overview of all present players. To create 
+a new group just click the new group button,
+
+0:00:39.920,0:00:46.000
+add a new group name and select 
+all the players that are in it.
+
+0:00:46.000,0:00:51.120
+If a group has no players anymore, 
+then the group can be deleted.
+
+0:00:51.120,0:00:53.920
+To select a specific player click 
+on it in the header and it will
+
+0:00:53.920,0:00:58.560
+be highlighted in the player list.
+Looking at the player list, a player is
+
+0:00:58.560,0:01:04.800
+displayed with their back number, name, and then 
+their heart rate and GPS-related metrics. All the
+
+0:01:04.800,0:01:11.120
+way to the left is the metrics name list for more 
+context. The upper two are heart rate-related,
+
+0:01:11.120,0:01:15.840
+whereas the ones below are all GPS-related 
+metrics. This difference is emphasized by
+
+0:01:15.840,0:01:20.640
+the heart rate-related metrics having a white 
+background and the GPS-related metrics having
+
+0:01:20.640,0:01:25.920
+different background colors that can be green, 
+orange, or red. The actual color stems from
+
+0:01:25.920,0:01:31.200
+the distance of how far a metric's actual 
+value is from its corresponding threshold.
+
+0:01:31.200,0:01:37.600
+The meaning of each color is also indicated by 
+the color legend at the bottom of the header.
+
+0:01:37.600,0:01:42.080
+If you want to change the threshold manually, 
+then click on the settings button on the top
+
+0:01:42.080,0:01:47.040
+right corner. There you see each threshold per 
+metric and also have the possibility to select
+
+0:01:47.040,0:01:55.760
+new metrics or deselect currently displayed ones. 
+To change a threshold value, click on the current
+
+0:01:55.760,0:02:02.000
+value, type in the new threshold, and click save. 
+As you can see the background color of that metric
+
+0:02:02.000,0:02:07.440
+changed to red, indicating that this metric 
+already reached its corresponding threshold.
+
+0:02:07.440,0:02:11.520
+One way to see how much the metric overstepped 
+the threshold is to click the percentage button
+
+0:02:11.520,0:02:18.000
+in the top left corner, which displays each 
+metric's value in percent. Now, if you wanna
+
+0:02:18.000,0:02:22.800
+see which player of a group is most exhausted, 
+just click the exhaustion button in the top left,
+
+0:02:22.800,0:02:26.720
+next to the percentage button, and then 
+per group, all players will get sorted
+
+0:02:26.720,0:02:33.440
+according to their overall exhaustion.
+Since exercises have a start and an end,
+
+0:02:33.440,0:02:37.360
+you can specify the start time by clicking 
+the start button in the top right corner,
+
+0:02:37.360,0:02:41.920
+and can stop it whenever the exercise is 
+finished. This has no immediate effect in
+
+0:02:41.920,0:02:46.720
+the player overview, but can be seen when 
+analyzing a player in greater detail.
+
+0:02:47.680,0:02:53.600
+To see more data of player, click on them, and you 
+will be navigated to the player details view. This
+
+0:02:53.600,0:02:58.960
+view is split into GPS-related metrics in the top 
+part, heart-related data in the middle part, and
+
+0:02:58.960,0:03:04.960
+the session overview graph in the bottom part.
+GPS-related metrics show by how much they
+
+0:03:04.960,0:03:10.480
+overstepped their corresponding threshold, with 
+a bar and a dashed line indicating the threshold.
+
+0:03:11.200,0:03:15.440
+Also, the value and its threshold are 
+shown in the bottom part of the GPS
+
+0:03:15.440,0:03:24.720
+metric tile. When clicking the plus button, 
+new metrics can be selected or deselected.
+
+0:03:24.720,0:03:29.440
+In the middle part, heart rate-related data 
+is displayed, with a line chart depicting the
+
+0:03:29.440,0:03:34.880
+heart rate trend. Additionally, the average 
+speed can be added to analyze the heart rate
+
+0:03:34.880,0:03:42.720
+trend in greater detail. The chart also displays 
+three different heart rate zones. On the right,
+
+0:03:42.720,0:03:47.600
+next to the heart rate zones, are horizontal bar 
+charts which indicate how much time the player
+
+0:03:47.600,0:03:56.080
+spent in each zone. Right next to the line chart, 
+heart rate-related metrics are displayed.
+
+0:03:56.080,0:04:01.200
+On the Bottom part is a session overview graph 
+which displays the entire monitoring session with
+
+0:04:01.200,0:04:07.120
+each exercise highlighted in greater saturation. 
+On the left, next to the session graph, is the
+
+0:04:07.120,0:04:11.600
+start and stop button with which an exercise can 
+be started and stopped the same way as in the
+
+0:04:11.600,0:04:16.880
+player overview, which was previously shown.
+To analyze a certain timespan in more detail,
+
+0:04:16.880,0:04:23.440
+you can either click on an exercise or use 
+the sliders to filter a specific timespan.
+
+0:04:23.440,0:04:29.600
+This will change the GPS-related metrics to show 
+by how much they grew in the selected period. The
+
+0:04:29.600,0:04:34.640
+heart zone time bars indicate how much time was 
+added in the time span, and the heart rate shows
+
+0:04:34.640,0:04:40.880
+the maximum and minimum of this specific period. 
+All the way to the bottom are time cut buttons,
+
+0:04:40.880,0:04:46.720
+which can make the time filtering more efficient. 
+To switch back to live data, simply click the live
+
+0:04:46.720,0:04:53.360
+button next to the session graph on the right.
+Let's now look at the match mode of the socceHR
+
+0:04:53.360,0:04:58.080
+dashboard. To navigate there, go back to the 
+training overview. And click the match mode
+
+0:04:58.080,0:05:03.040
+icon on the top right. The match mode has 
+a header that holds buttons with which the
+
+0:05:03.040,0:05:08.320
+player overview can be manipulated. Below the 
+header, a soccer field is displayed with each
+
+0:05:08.320,0:05:14.240
+player being positioned according to their player 
+position. A player is depicted as a player card,
+
+0:05:14.240,0:05:20.080
+which holds the three most exhausted GPS 
+metrics and two heart rate-related metrics.
+
+0:05:20.080,0:05:24.800
+If more information is needed for a player, just 
+click the flip button on the top right corner of a
+
+0:05:24.800,0:05:30.160
+specific player card, and it will grow in size 
+and hold up to 8 GPS metrics and additionally
+
+0:05:30.160,0:05:35.120
+display the heart rate trend, heart rate 
+zone, and one additional heart rate metric.
+
+0:05:35.120,0:05:43.440
+To view more data for all players, just click the 
+flip all button in the top left of the header.
+
+0:05:43.440,0:05:47.440
+Next to the flip all button is again the 
+percentage button, which was already introduced,
+
+0:05:47.440,0:05:54.800
+and the repositioning button, which can be 
+used to change the line-up of the team.
+
+0:05:54.800,0:05:59.120
+All the way to the left is the substitution 
+button. Here, specify a player from the
+
+0:05:59.120,0:06:06.720
+field and a bench player for substitution.
+To change the thresholds of a player manually,
+
+0:06:06.720,0:06:11.840
+again, click the settings button in the top 
+right. Here, select a player in the header,
+
+0:06:11.840,0:06:20.080
+then select and deselect metrics on the left 
+or change thresholds on the right side.
+
+0:06:20.080,0:06:25.040
+To view a player in greater detail, just click on 
+a player card, and it will open the player details
+
+0:06:25.040,0:06:30.960
+view in match mode. The only thing that changes 
+in relation to the training mode is that there
+
+0:06:30.960,0:06:37.520
+are no exercises, and hence no start and stop 
+button for them. Everything else stays the same.
